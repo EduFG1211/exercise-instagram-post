@@ -1,0 +1,36 @@
+.post {
+    width: 600px;
+    margin: auto;
+}
+div.post-header {
+    /* background-color: green; */
+    margin: 0;
+}
+div.post-header .ph-i1{
+    display: inline-block;
+    /* background-color: blue; */
+    width: 5%;
+    height: 100%;
+    font-size: 25px;
+}
+div.post-header .ph-title{
+    display: inline-block;
+    /* background-color: red; */
+    width: 45%;
+    height: 100%;
+}
+div.post-header .ph-i2{
+    display: inline-block;
+    /* background-color: yellow; */
+    width: 50%;
+    height: 100%;
+    font-size: 20px;
+}
+img {
+    width: 100%;
+	margin: auto; 
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
